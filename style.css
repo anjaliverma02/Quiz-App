@@ -1,0 +1,56 @@
+body{
+    background:#001e4d;
+    font-family: Arial;
+}
+
+
+.container{
+
+    background:white;
+    width:90%;
+    max-width:600px;
+    margin:100px auto;
+    padding:30px;
+    border-radius:10px;
+
+}
+
+
+h1{
+
+    text-align:center;
+    color:#001e4d;
+
+}
+
+
+.btn{
+
+    background:white;
+    color:#222;
+    width:100%;
+    border:1px solid #222;
+    padding:10px;
+    margin:10px 0;
+    cursor:pointer;
+}
+
+
+.btn:hover{
+
+    background:#222;
+    color:white;
+
+}
+
+
+#next-btn{
+
+    background:#001e4d;
+    color:white;
+    border:0;
+    padding:10px 30px;
+    margin:auto;
+    display:none;
+
+}
